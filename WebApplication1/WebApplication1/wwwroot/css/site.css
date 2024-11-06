@@ -1,22 +1,125 @@
+/* Estilos globales */
 html {
-  font-size: 14px;
+    font-size: 14px;
 }
 
 @media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
+    html {
+        font-size: 16px;
+    }
 }
 
 .btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
-  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
 }
 
 html {
-  position: relative;
-  min-height: 100%;
+    position: relative;
+    min-height: 100%;
 }
 
 body {
-  margin-bottom: 60px;
+    margin-bottom: 60px;
+}
+
+/* Estilos para la Página de Inicio (Index) */
+
+.container {
+    max-width: 1200px;
+}
+
+/* Manga Card */
+/* Estilos para la tarjeta de manga */
+.manga-card {
+    position: relative;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s;
+    cursor: pointer;
+    height: 320px; /* Altura más controlada para la tarjeta */
+}
+
+    .manga-card:hover {
+        transform: scale(1.05);
+    }
+
+.manga-cover {
+    width: 100%;
+    height: 200px; /* Ajuste de altura de la imagen */
+    object-fit: cover; /* Hace que la imagen ocupe el espacio sin distorsionarse */
+    display: block;
+}
+
+.manga-info {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.7);
+    color: white;
+    padding: 10px;
+    text-align: center;
+    transform: translateY(100%);
+    transition: transform 0.3s ease-in-out;
+}
+
+.manga-card:hover .manga-info {
+    transform: translateY(0);
+}
+
+.manga-title {
+    font-size: 16px;
+    margin: 5px 0;
+}
+
+.view-details {
+    padding: 8px;
+    background-color: #ff6b6b;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 5px;
+}
+
+/* Para organizar las tarjetas en 4 columnas */
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between; /* Espaciado entre las columnas */
+}
+
+.col-md-3 {
+    flex: 0 0 23%; /* Esto asegura que 4 tarjetas se distribuyan en una fila */
+    max-width: 23%;
+    margin-bottom: 20px; /* Espacio entre las filas */
+}
+
+@media (max-width: 768px) {
+    .col-md-3 {
+        flex: 0 0 48%; /* En pantallas más pequeñas, 2 productos por fila */
+    }
+}
+
+@media (max-width: 480px) {
+    .col-md-3 {
+        flex: 0 0 100%; /* En pantallas pequeñas, 1 producto por fila */
+    }
+}
+
+/* Asegura que el footer se quede en la parte inferior de la página */
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    left: 0;
+    background-color: #343a40;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px; /* Añade un pequeño margen superior si es necesario */
+}
+
+body {
+    padding-bottom: 60px; /* Asegura que el contenido no quede debajo del footer */
 }

@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "H4zT5mX/TjU=",
+  "dgSpecHash": "lBz/E9nWDQk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Adolfo Rdz\\Desktop\\7mo semestre\\programacion distribuida\\pia\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "C:\\Users\\alfre\\OneDrive\\Escritorio\\PIAPrograDist\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Adolfo Rdz\\.nuget\\packages\\bootstrap\\5.3.3\\bootstrap.5.3.3.nupkg.sha512"
+    "C:\\Users\\alfre\\.nuget\\packages\\bootstrap\\5.3.3\\bootstrap.5.3.3.nupkg.sha512"
   ],
   "logs": []
 }

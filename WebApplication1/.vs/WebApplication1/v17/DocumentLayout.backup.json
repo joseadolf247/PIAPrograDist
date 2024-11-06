@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Adolfo Rdz\\Desktop\\7mo semestre\\programacion distribuida\\pia\\WebApplication1\\",
+  "WorkspaceRootPath": "C:\\Users\\alfre\\OneDrive\\Escritorio\\PIAPrograDist\\WebApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8DAEB137-672A-4ABC-BF25-8F2460849542}|WebApplication1\\WebApplication1.csproj|c:\\users\\adolfo rdz\\desktop\\7mo semestre\\programacion distribuida\\pia\\webapplication1\\webapplication1\\pages\\carrito.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8DAEB137-672A-4ABC-BF25-8F2460849542}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\carrito.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8DAEB137-672A-4ABC-BF25-8F2460849542}|WebApplication1\\WebApplication1.csproj|c:\\users\\alfre\\onedrive\\escritorio\\piaprogradist\\webapplication1\\webapplication1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8DAEB137-672A-4ABC-BF25-8F2460849542}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DAEB137-672A-4ABC-BF25-8F2460849542}|WebApplication1\\WebApplication1.csproj|c:\\users\\adolfo rdz\\desktop\\7mo semestre\\programacion distribuida\\pia\\webapplication1\\webapplication1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8DAEB137-672A-4ABC-BF25-8F2460849542}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8DAEB137-672A-4ABC-BF25-8F2460849542}|WebApplication1\\WebApplication1.csproj|c:\\users\\adolfo rdz\\desktop\\7mo semestre\\programacion distribuida\\pia\\webapplication1\\webapplication1\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8DAEB137-672A-4ABC-BF25-8F2460849542}|WebApplication1\\WebApplication1.csproj|c:\\users\\alfre\\onedrive\\escritorio\\piaprogradist\\webapplication1\\webapplication1\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8DAEB137-672A-4ABC-BF25-8F2460849542}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DAEB137-672A-4ABC-BF25-8F2460849542}|WebApplication1\\WebApplication1.csproj|c:\\users\\adolfo rdz\\desktop\\7mo semestre\\programacion distribuida\\pia\\webapplication1\\webapplication1\\pages\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8DAEB137-672A-4ABC-BF25-8F2460849542}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8DAEB137-672A-4ABC-BF25-8F2460849542}|WebApplication1\\WebApplication1.csproj|c:\\users\\alfre\\onedrive\\escritorio\\piaprogradist\\webapplication1\\webapplication1\\pages\\directorio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DAEB137-672A-4ABC-BF25-8F2460849542}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\directorio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DAEB137-672A-4ABC-BF25-8F2460849542}|WebApplication1\\WebApplication1.csproj|c:\\users\\adolfo rdz\\desktop\\7mo semestre\\programacion distribuida\\pia\\webapplication1\\webapplication1\\pages\\acceso.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8DAEB137-672A-4ABC-BF25-8F2460849542}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\acceso.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8DAEB137-672A-4ABC-BF25-8F2460849542}|WebApplication1\\WebApplication1.csproj|c:\\users\\alfre\\onedrive\\escritorio\\piaprogradist\\webapplication1\\webapplication1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DAEB137-672A-4ABC-BF25-8F2460849542}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DAEB137-672A-4ABC-BF25-8F2460849542}|WebApplication1\\WebApplication1.csproj|c:\\users\\alfre\\onedrive\\escritorio\\piaprogradist\\webapplication1\\webapplication1\\wwwroot\\css\\directorio.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8DAEB137-672A-4ABC-BF25-8F2460849542}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\css\\directorio.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,72 +30,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Directorio.css",
+              "DocumentMoniker": "C:\\Users\\alfre\\OneDrive\\Escritorio\\PIAPrograDist\\WebApplication1\\WebApplication1\\wwwroot\\css\\Directorio.css",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\css\\Directorio.css",
+              "ToolTip": "C:\\Users\\alfre\\OneDrive\\Escritorio\\PIAPrograDist\\WebApplication1\\WebApplication1\\wwwroot\\css\\Directorio.css",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\css\\Directorio.css",
+              "ViewState": "AgIAABUAAAAAAAAAAAAuwC0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-06T01:05:50.881Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "carrito.cshtml",
-              "DocumentMoniker": "C:\\Users\\Adolfo Rdz\\Desktop\\7mo semestre\\programacion distribuida\\pia\\WebApplication1\\WebApplication1\\Pages\\carrito.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Pages\\carrito.cshtml",
-              "ToolTip": "C:\\Users\\Adolfo Rdz\\Desktop\\7mo semestre\\programacion distribuida\\pia\\WebApplication1\\WebApplication1\\Pages\\carrito.cshtml",
-              "RelativeToolTip": "WebApplication1\\Pages\\carrito.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAA8AAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Directorio.cshtml",
+              "DocumentMoniker": "C:\\Users\\alfre\\OneDrive\\Escritorio\\PIAPrograDist\\WebApplication1\\WebApplication1\\Pages\\Directorio.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Pages\\Directorio.cshtml",
+              "ToolTip": "C:\\Users\\alfre\\OneDrive\\Escritorio\\PIAPrograDist\\WebApplication1\\WebApplication1\\Pages\\Directorio.cshtml",
+              "RelativeToolTip": "WebApplication1\\Pages\\Directorio.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-08T19:44:45.309Z",
+              "WhenOpened": "2024-11-06T01:04:54.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\alfre\\OneDrive\\Escritorio\\PIAPrograDist\\WebApplication1\\WebApplication1\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\alfre\\OneDrive\\Escritorio\\PIAPrograDist\\WebApplication1\\WebApplication1\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAAAGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T18:59:43.842Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "registro.cshtml",
-              "DocumentMoniker": "C:\\Users\\Adolfo Rdz\\Desktop\\7mo semestre\\programacion distribuida\\pia\\WebApplication1\\WebApplication1\\Pages\\registro.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Pages\\registro.cshtml",
-              "ToolTip": "C:\\Users\\Adolfo Rdz\\Desktop\\7mo semestre\\programacion distribuida\\pia\\WebApplication1\\WebApplication1\\Pages\\registro.cshtml",
-              "RelativeToolTip": "WebApplication1\\Pages\\registro.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-08T19:36:56.942Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "acceso.cshtml",
-              "DocumentMoniker": "C:\\Users\\Adolfo Rdz\\Desktop\\7mo semestre\\programacion distribuida\\pia\\WebApplication1\\WebApplication1\\Pages\\acceso.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Pages\\acceso.cshtml",
-              "ToolTip": "C:\\Users\\Adolfo Rdz\\Desktop\\7mo semestre\\programacion distribuida\\pia\\WebApplication1\\WebApplication1\\Pages\\acceso.cshtml",
-              "RelativeToolTip": "WebApplication1\\Pages\\acceso.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-08T19:27:00.808Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Adolfo Rdz\\Desktop\\7mo semestre\\programacion distribuida\\pia\\WebApplication1\\WebApplication1\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Adolfo Rdz\\Desktop\\7mo semestre\\programacion distribuida\\pia\\WebApplication1\\WebApplication1\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "WebApplication1\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-08T18:59:43.842Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Adolfo Rdz\\Desktop\\7mo semestre\\programacion distribuida\\pia\\WebApplication1\\WebApplication1\\Pages\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\alfre\\OneDrive\\Escritorio\\PIAPrograDist\\WebApplication1\\WebApplication1\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Adolfo Rdz\\Desktop\\7mo semestre\\programacion distribuida\\pia\\WebApplication1\\WebApplication1\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\alfre\\OneDrive\\Escritorio\\PIAPrograDist\\WebApplication1\\WebApplication1\\Pages\\Index.cshtml",
               "RelativeToolTip": "WebApplication1\\Pages\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-08T17:21:32.078Z"
+              "WhenOpened": "2024-09-08T17:21:32.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\alfre\\OneDrive\\Escritorio\\PIAPrograDist\\WebApplication1\\WebApplication1\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\alfre\\OneDrive\\Escritorio\\PIAPrograDist\\WebApplication1\\WebApplication1\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAmwH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-06T00:45:57.971Z",
+              "EditorCaption": ""
             }
           ]
         }
