@@ -1,0 +1,71 @@
+﻿/* Estilo específico para la página de detalles del manga */
+.manga-details {
+    max-width: 1200px;
+    margin-top: 50px;
+}
+
+.manga-title-text {
+    font-size: 36px;
+    color: #2c3e50;
+}
+
+.manga-title {
+    font-size: 22px;
+    font-weight: bold;
+    color: orangered;
+}
+
+.manga-author,
+.manga-rating,
+.manga-year,
+.manga-status {
+    font-size: 18px;
+    color: aqua;
+}
+
+.manga-rating {
+    color: #f39c12;
+}
+
+.manga-synopsis {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #2c3e50;
+}
+
+/* Estilo para la imagen del manga */
+.manga-image {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Estilo para el botón */
+.manga-button {
+    font-size: 18px;
+    padding: 12px 20px;
+    border-radius: 8px;
+    background-color: #2980b9;
+    border-color: #2980b9;
+}
+
+    /* Hover effect for the button */
+    .manga-button:hover {
+        background-color: #1c598a;
+        border-color: #1c598a;
+    }
+
+/* Card shadow */
+img.rounded {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Alineación de los títulos */
+.text-center {
+    text-align: center;
+}
+
+/* Background for the page */
+body {
+    background-color: #f4f6f7;
+    font-family: 'Arial', sans-serif;
+}

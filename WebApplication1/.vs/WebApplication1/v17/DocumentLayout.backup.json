@@ -3,24 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\alfre\\OneDrive\\Escritorio\\PIAPrograDist\\WebApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8DAEB137-672A-4ABC-BF25-8F2460849542}|WebApplication1\\WebApplication1.csproj|c:\\users\\alfre\\onedrive\\escritorio\\piaprogradist\\webapplication1\\webapplication1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{8DAEB137-672A-4ABC-BF25-8F2460849542}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{8DAEB137-672A-4ABC-BF25-8F2460849542}|WebApplication1\\WebApplication1.csproj|c:\\users\\alfre\\onedrive\\escritorio\\piaprogradist\\webapplication1\\webapplication1\\pages\\mangas\\hxh.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DAEB137-672A-4ABC-BF25-8F2460849542}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\mangas\\hxh.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DAEB137-672A-4ABC-BF25-8F2460849542}|WebApplication1\\WebApplication1.csproj|c:\\users\\alfre\\onedrive\\escritorio\\piaprogradist\\webapplication1\\webapplication1\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8DAEB137-672A-4ABC-BF25-8F2460849542}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8DAEB137-672A-4ABC-BF25-8F2460849542}|WebApplication1\\WebApplication1.csproj|c:\\users\\alfre\\onedrive\\escritorio\\piaprogradist\\webapplication1\\webapplication1\\pages\\mangas\\vistas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DAEB137-672A-4ABC-BF25-8F2460849542}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\mangas\\vistas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DAEB137-672A-4ABC-BF25-8F2460849542}|WebApplication1\\WebApplication1.csproj|c:\\users\\alfre\\onedrive\\escritorio\\piaprogradist\\webapplication1\\webapplication1\\pages\\mangas\\berserk.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DAEB137-672A-4ABC-BF25-8F2460849542}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\mangas\\berserk.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DAEB137-672A-4ABC-BF25-8F2460849542}|WebApplication1\\WebApplication1.csproj|c:\\users\\alfre\\onedrive\\escritorio\\piaprogradist\\webapplication1\\webapplication1\\wwwroot\\css\\vistas.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8DAEB137-672A-4ABC-BF25-8F2460849542}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\css\\vistas.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DAEB137-672A-4ABC-BF25-8F2460849542}|WebApplication1\\WebApplication1.csproj|c:\\users\\alfre\\onedrive\\escritorio\\piaprogradist\\webapplication1\\webapplication1\\pages\\mangas\\mashle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DAEB137-672A-4ABC-BF25-8F2460849542}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\mangas\\mashle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8DAEB137-672A-4ABC-BF25-8F2460849542}|WebApplication1\\WebApplication1.csproj|c:\\users\\alfre\\onedrive\\escritorio\\piaprogradist\\webapplication1\\webapplication1\\pages\\directorio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8DAEB137-672A-4ABC-BF25-8F2460849542}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\directorio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DAEB137-672A-4ABC-BF25-8F2460849542}|WebApplication1\\WebApplication1.csproj|c:\\users\\alfre\\onedrive\\escritorio\\piaprogradist\\webapplication1\\webapplication1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8DAEB137-672A-4ABC-BF25-8F2460849542}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8DAEB137-672A-4ABC-BF25-8F2460849542}|WebApplication1\\WebApplication1.csproj|c:\\users\\alfre\\onedrive\\escritorio\\piaprogradist\\webapplication1\\webapplication1\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DAEB137-672A-4ABC-BF25-8F2460849542}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DAEB137-672A-4ABC-BF25-8F2460849542}|WebApplication1\\WebApplication1.csproj|c:\\users\\alfre\\onedrive\\escritorio\\piaprogradist\\webapplication1\\webapplication1\\wwwroot\\css\\directorio.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{8DAEB137-672A-4ABC-BF25-8F2460849542}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\css\\directorio.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{8DAEB137-672A-4ABC-BF25-8F2460849542}|WebApplication1\\WebApplication1.csproj|c:\\users\\alfre\\onedrive\\escritorio\\piaprogradist\\webapplication1\\webapplication1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8DAEB137-672A-4ABC-BF25-8F2460849542}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DAEB137-672A-4ABC-BF25-8F2460849542}|WebApplication1\\WebApplication1.csproj|c:\\users\\alfre\\onedrive\\escritorio\\piaprogradist\\webapplication1\\webapplication1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DAEB137-672A-4ABC-BF25-8F2460849542}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,50 +46,103 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Directorio.css",
-              "DocumentMoniker": "C:\\Users\\alfre\\OneDrive\\Escritorio\\PIAPrograDist\\WebApplication1\\WebApplication1\\wwwroot\\css\\Directorio.css",
-              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\css\\Directorio.css",
-              "ToolTip": "C:\\Users\\alfre\\OneDrive\\Escritorio\\PIAPrograDist\\WebApplication1\\WebApplication1\\wwwroot\\css\\Directorio.css",
-              "RelativeToolTip": "WebApplication1\\wwwroot\\css\\Directorio.css",
-              "ViewState": "AgIAABUAAAAAAAAAAAAuwC0AAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-06T01:05:50.881Z",
+              "Title": "Mashle.cshtml",
+              "DocumentMoniker": "C:\\Users\\alfre\\OneDrive\\Escritorio\\PIAPrograDist\\WebApplication1\\WebApplication1\\Pages\\Mangas\\Mashle.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Pages\\Mangas\\Mashle.cshtml",
+              "ToolTip": "C:\\Users\\alfre\\OneDrive\\Escritorio\\PIAPrograDist\\WebApplication1\\WebApplication1\\Pages\\Mangas\\Mashle.cshtml",
+              "RelativeToolTip": "WebApplication1\\Pages\\Mangas\\Mashle.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T03:06:22.967Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Berserk.cshtml",
+              "DocumentMoniker": "C:\\Users\\alfre\\OneDrive\\Escritorio\\PIAPrograDist\\WebApplication1\\WebApplication1\\Pages\\Mangas\\Berserk.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Pages\\Mangas\\Berserk.cshtml",
+              "ToolTip": "C:\\Users\\alfre\\OneDrive\\Escritorio\\PIAPrograDist\\WebApplication1\\WebApplication1\\Pages\\Mangas\\Berserk.cshtml",
+              "RelativeToolTip": "WebApplication1\\Pages\\Mangas\\Berserk.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T03:06:37.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HxH.cshtml",
+              "DocumentMoniker": "C:\\Users\\alfre\\OneDrive\\Escritorio\\PIAPrograDist\\WebApplication1\\WebApplication1\\Pages\\Mangas\\HxH.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Pages\\Mangas\\HxH.cshtml",
+              "ToolTip": "C:\\Users\\alfre\\OneDrive\\Escritorio\\PIAPrograDist\\WebApplication1\\WebApplication1\\Pages\\Mangas\\HxH.cshtml",
+              "RelativeToolTip": "WebApplication1\\Pages\\Mangas\\HxH.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T03:06:32.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vistas.cshtml",
+              "DocumentMoniker": "C:\\Users\\alfre\\OneDrive\\Escritorio\\PIAPrograDist\\WebApplication1\\WebApplication1\\Pages\\Mangas\\Vistas.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Pages\\Mangas\\Vistas.cshtml",
+              "ToolTip": "C:\\Users\\alfre\\OneDrive\\Escritorio\\PIAPrograDist\\WebApplication1\\WebApplication1\\Pages\\Mangas\\Vistas.cshtml",
+              "RelativeToolTip": "WebApplication1\\Pages\\Mangas\\Vistas.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T03:04:17.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vistas.css",
+              "DocumentMoniker": "C:\\Users\\alfre\\OneDrive\\Escritorio\\PIAPrograDist\\WebApplication1\\WebApplication1\\wwwroot\\css\\Vistas.css",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\css\\Vistas.css",
+              "ToolTip": "C:\\Users\\alfre\\OneDrive\\Escritorio\\PIAPrograDist\\WebApplication1\\WebApplication1\\wwwroot\\css\\Vistas.css",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\css\\Vistas.css",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-06T02:24:18.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Directorio.cshtml",
               "DocumentMoniker": "C:\\Users\\alfre\\OneDrive\\Escritorio\\PIAPrograDist\\WebApplication1\\WebApplication1\\Pages\\Directorio.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Pages\\Directorio.cshtml",
               "ToolTip": "C:\\Users\\alfre\\OneDrive\\Escritorio\\PIAPrograDist\\WebApplication1\\WebApplication1\\Pages\\Directorio.cshtml",
               "RelativeToolTip": "WebApplication1\\Pages\\Directorio.cshtml",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAADcAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-06T01:04:54.208Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\alfre\\OneDrive\\Escritorio\\PIAPrograDist\\WebApplication1\\WebApplication1\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Pages\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\alfre\\OneDrive\\Escritorio\\PIAPrograDist\\WebApplication1\\WebApplication1\\Pages\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "WebApplication1\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAFUAAAAAAAAAAAAAAGEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-08T18:59:43.842Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\alfre\\OneDrive\\Escritorio\\PIAPrograDist\\WebApplication1\\WebApplication1\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Pages\\Index.cshtml",
@@ -81,18 +150,17 @@
               "RelativeToolTip": "WebApplication1\\Pages\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-08T17:21:32.078Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-08T17:21:32.078Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\alfre\\OneDrive\\Escritorio\\PIAPrograDist\\WebApplication1\\WebApplication1\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\css\\site.css",
               "ToolTip": "C:\\Users\\alfre\\OneDrive\\Escritorio\\PIAPrograDist\\WebApplication1\\WebApplication1\\wwwroot\\css\\site.css",
               "RelativeToolTip": "WebApplication1\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAmwH0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAmwC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-11-06T00:45:57.971Z",
               "EditorCaption": ""

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "KFc95X93yrXXsPRRcY9NXy+6RqdQcKXeiDB/jizDWUw=",
+  "Hash": "skDsONDTXDNRhZwjaoPrU9xtwP4QysEFvsWcqbXZdf4=",
   "Source": "WebApplication1",
   "BasePath": "_content/WebApplication1",
   "Mode": "Default",
@@ -927,6 +927,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\alfre\\OneDrive\\Escritorio\\PIAPrograDist\\WebApplication1\\WebApplication1\\wwwroot\\css\\Vistas.css",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alfre\\OneDrive\\Escritorio\\PIAPrograDist\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "css/Vistas.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Vistas.css"
     },
     {
       "Identity": "C:\\Users\\alfre\\OneDrive\\Escritorio\\PIAPrograDist\\WebApplication1\\WebApplication1\\wwwroot\\favicon.ico",

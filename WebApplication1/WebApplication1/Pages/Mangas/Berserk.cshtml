@@ -1,0 +1,38 @@
+﻿@page
+@model WebApplication1.Pages.Mangas.BerserkModel
+@{
+}
+<head>
+    <link rel="stylesheet" href="~/css/Vistas.css" />
+</head>
+
+<div class="container mt-5">
+    <!-- Contenedor de la fila para los detalles del manga -->
+    <div class="row">
+        <!-- Imagen del Manga -->
+        <div class="col-md-4">
+            <img src="https://m.media-amazon.com/images/I/71lnvXSiITL._AC_UF1000,1000_QL80_.jpg"
+                 alt="Berserk" class="img-fluid rounded shadow-lg border border-secondary">
+        </div>
+
+        <!-- Información del Manga -->
+        <div class="col-md-8">
+            <h3 class="manga-title" style="font-size: 30px; font-weight: bold; color: #34495e;">Berserk</h3><br /><br />
+            <p class="manga-author" style="font-size: 18px; color: #7f8c8d;"><strong>Autor:</strong> Kentaro Miura</p><br />
+            <p class="manga-rating" style="font-size: 18px; color: #f39c12;"><strong>Calificación:</strong> ⭐ 5.0</p><br />
+            <p class="manga-year" style="font-size: 18px; color: #7f8c8d;"><strong>Año de publicación:</strong> 1989</p><br />
+            <p class="manga-status" style="font-size: 18px; color: #7f8c8d;"><strong>Estado:</strong> En curso</p><br />
+            <p class="manga-synopsis" style="font-size: 18px; line-height: 1.6; color: #2c3e50;">
+                <strong>Sinopsis:</strong> Berserk sigue la historia de Guts, un hombre marcado por la tragedia, quien lucha por la supervivencia en un mundo oscuro y cruel. Con una espada enorme y un destino marcado por la venganza, se enfrenta a terribles enemigos, mientras busca redención y sentido en su vida.
+            </p><br />
+
+            <!-- Botón para ver más detalles -->
+            <a href="https://www.youtube.com/watch?v=hOG3YipfGHU&pp=ygUPcmVzdW1lbiBiZXJzZXJr" class="btn btn-primary mt-3" style="font-size: 18px; padding: 12px 20px; border-radius: 8px; background-color: #2980b9; border-color: #2980b9;">
+                Leer más detalles
+            </a>
+
+            <!-- Botón para regresar -->
+            <button onclick="window.history.back();" class="btn btn-secondary mt-3 manga-button">Regresar</button>
+        </div>
+    </div>
+</div>
