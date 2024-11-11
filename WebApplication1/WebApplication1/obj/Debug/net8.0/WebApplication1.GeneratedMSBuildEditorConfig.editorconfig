@@ -9,71 +9,71 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebApplication1
 build_property.RootNamespace = WebApplication1
-build_property.ProjectDir = C:\Users\alfre\OneDrive\Escritorio\PIAPrograDist\WebApplication1\WebApplication1\
+build_property.ProjectDir = C:\Users\aleja\Desktop\PIAPrograDist\WebApplication1\WebApplication1\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\alfre\OneDrive\Escritorio\PIAPrograDist\WebApplication1\WebApplication1
+build_property.MSBuildProjectDirectory = C:\Users\aleja\Desktop\PIAPrograDist\WebApplication1\WebApplication1
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/alfre/OneDrive/Escritorio/PIAPrograDist/WebApplication1/WebApplication1/Pages/acceso.cshtml]
+[C:/Users/aleja/Desktop/PIAPrograDist/WebApplication1/WebApplication1/Pages/acceso.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcYWNjZXNvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alfre/OneDrive/Escritorio/PIAPrograDist/WebApplication1/WebApplication1/Pages/carrito.cshtml]
+[C:/Users/aleja/Desktop/PIAPrograDist/WebApplication1/WebApplication1/Pages/carrito.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY2Fycml0by5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alfre/OneDrive/Escritorio/PIAPrograDist/WebApplication1/WebApplication1/Pages/Directorio.cshtml]
+[C:/Users/aleja/Desktop/PIAPrograDist/WebApplication1/WebApplication1/Pages/Directorio.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlyZWN0b3Jpby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alfre/OneDrive/Escritorio/PIAPrograDist/WebApplication1/WebApplication1/Pages/Error.cshtml]
+[C:/Users/aleja/Desktop/PIAPrograDist/WebApplication1/WebApplication1/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alfre/OneDrive/Escritorio/PIAPrograDist/WebApplication1/WebApplication1/Pages/Index.cshtml]
+[C:/Users/aleja/Desktop/PIAPrograDist/WebApplication1/WebApplication1/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alfre/OneDrive/Escritorio/PIAPrograDist/WebApplication1/WebApplication1/Pages/Mangas/Berserk.cshtml]
+[C:/Users/aleja/Desktop/PIAPrograDist/WebApplication1/WebApplication1/Pages/Mangas/Berserk.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuZ2FzXEJlcnNlcmsuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alfre/OneDrive/Escritorio/PIAPrograDist/WebApplication1/WebApplication1/Pages/Mangas/HxH.cshtml]
+[C:/Users/aleja/Desktop/PIAPrograDist/WebApplication1/WebApplication1/Pages/Mangas/HxH.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuZ2FzXEh4SC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alfre/OneDrive/Escritorio/PIAPrograDist/WebApplication1/WebApplication1/Pages/Mangas/Mashle.cshtml]
+[C:/Users/aleja/Desktop/PIAPrograDist/WebApplication1/WebApplication1/Pages/Mangas/Mashle.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuZ2FzXE1hc2hsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alfre/OneDrive/Escritorio/PIAPrograDist/WebApplication1/WebApplication1/Pages/Mangas/Vistas.cshtml]
+[C:/Users/aleja/Desktop/PIAPrograDist/WebApplication1/WebApplication1/Pages/Mangas/Vistas.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuZ2FzXFZpc3Rhcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alfre/OneDrive/Escritorio/PIAPrograDist/WebApplication1/WebApplication1/Pages/Privacy.cshtml]
+[C:/Users/aleja/Desktop/PIAPrograDist/WebApplication1/WebApplication1/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alfre/OneDrive/Escritorio/PIAPrograDist/WebApplication1/WebApplication1/Pages/registro.cshtml]
+[C:/Users/aleja/Desktop/PIAPrograDist/WebApplication1/WebApplication1/Pages/registro.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNccmVnaXN0cm8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alfre/OneDrive/Escritorio/PIAPrograDist/WebApplication1/WebApplication1/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/aleja/Desktop/PIAPrograDist/WebApplication1/WebApplication1/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alfre/OneDrive/Escritorio/PIAPrograDist/WebApplication1/WebApplication1/Pages/_ViewImports.cshtml]
+[C:/Users/aleja/Desktop/PIAPrograDist/WebApplication1/WebApplication1/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alfre/OneDrive/Escritorio/PIAPrograDist/WebApplication1/WebApplication1/Pages/_ViewStart.cshtml]
+[C:/Users/aleja/Desktop/PIAPrograDist/WebApplication1/WebApplication1/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alfre/OneDrive/Escritorio/PIAPrograDist/WebApplication1/WebApplication1/Pages/Shared/_Layout.cshtml]
+[C:/Users/aleja/Desktop/PIAPrograDist/WebApplication1/WebApplication1/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-g6ltozs93r
