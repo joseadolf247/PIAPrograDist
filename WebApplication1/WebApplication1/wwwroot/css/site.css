@@ -122,4 +122,25 @@ footer {
 
 body {
     padding-bottom: 60px; /* Asegura que el contenido no quede debajo del footer */
+    padding-bottom: 60px; /* Asegura que el contenido no quede debajo del footer */
+    background-color: #f4f6f7;
+    font-family: 'Berlin Sans FB', sans-serif;
+    position: relative; /* Necesario para que el pseudo-elemento funcione */
+    background-color: #f4f6f7; /* Fondo base en caso de que la imagen no se cargue */
+    margin: 0; /* Eliminar márgenes por defecto */
 }
+
+    /* Agregar imagen de fondo con opacidad */
+    body::before {
+        content: ""; /* Necesario para generar el pseudo-elemento */
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background-image: url('https://www.geekmi.news/__export/1688404795939/sites/debate/img/2023/07/03/disexo_sin_txtulo_x16x.jpg_554688468.jpg');
+        background-size: cover; /* La imagen cubre toda la pantalla */
+        background-repeat: no-repeat; /* No repetir la imagen */
+        opacity: 0.5; /* Ajusta la opacidad (puedes modificar este valor) */
+        z-index: -1; /* Asegura que la imagen de fondo no cubra el contenido */
+    }

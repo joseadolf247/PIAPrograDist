@@ -1,25 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\aleja\\Desktop\\PIAPrograDist\\WebApplication1\\",
+  "WorkspaceRootPath": "C:\\Users\\luisa\\OneDrive\\Escritorio\\PIAANTONIO1\\PIAPrograDist\\WebApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8DAEB137-672A-4ABC-BF25-8F2460849542}|WebApplication1\\WebApplication1.csproj|c:\\users\\aleja\\desktop\\piaprogradist\\webapplication1\\webapplication1\\pages\\acceso.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8DAEB137-672A-4ABC-BF25-8F2460849542}|WebApplication1\\WebApplication1.csproj|c:\\users\\luisa\\onedrive\\escritorio\\piaantonio1\\piaprogradist\\webapplication1\\webapplication1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8DAEB137-672A-4ABC-BF25-8F2460849542}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DAEB137-672A-4ABC-BF25-8F2460849542}|WebApplication1\\WebApplication1.csproj|c:\\users\\luisa\\onedrive\\escritorio\\piaantonio1\\piaprogradist\\webapplication1\\webapplication1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DAEB137-672A-4ABC-BF25-8F2460849542}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DAEB137-672A-4ABC-BF25-8F2460849542}|WebApplication1\\WebApplication1.csproj|c:\\users\\luisa\\onedrive\\escritorio\\piaantonio1\\piaprogradist\\webapplication1\\webapplication1\\pages\\acceso.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8DAEB137-672A-4ABC-BF25-8F2460849542}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\acceso.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DAEB137-672A-4ABC-BF25-8F2460849542}|WebApplication1\\WebApplication1.csproj|c:\\users\\aleja\\desktop\\piaprogradist\\webapplication1\\webapplication1\\pages\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8DAEB137-672A-4ABC-BF25-8F2460849542}|WebApplication1\\WebApplication1.csproj|c:\\users\\luisa\\onedrive\\escritorio\\piaantonio1\\piaprogradist\\webapplication1\\webapplication1\\pages\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8DAEB137-672A-4ABC-BF25-8F2460849542}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DAEB137-672A-4ABC-BF25-8F2460849542}|WebApplication1\\WebApplication1.csproj|c:\\users\\aleja\\desktop\\piaprogradist\\webapplication1\\webapplication1\\pages\\registro.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8DAEB137-672A-4ABC-BF25-8F2460849542}|WebApplication1\\WebApplication1.csproj|c:\\users\\luisa\\onedrive\\escritorio\\piaantonio1\\piaprogradist\\webapplication1\\webapplication1\\pages\\registro.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8DAEB137-672A-4ABC-BF25-8F2460849542}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\registro.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DAEB137-672A-4ABC-BF25-8F2460849542}|WebApplication1\\WebApplication1.csproj|c:\\users\\aleja\\desktop\\piaprogradist\\webapplication1\\webapplication1\\pages\\acceso.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8DAEB137-672A-4ABC-BF25-8F2460849542}|WebApplication1\\WebApplication1.csproj|c:\\users\\luisa\\onedrive\\escritorio\\piaantonio1\\piaprogradist\\webapplication1\\webapplication1\\pages\\acceso.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8DAEB137-672A-4ABC-BF25-8F2460849542}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\acceso.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DAEB137-672A-4ABC-BF25-8F2460849542}|WebApplication1\\WebApplication1.csproj|c:\\users\\aleja\\desktop\\piaprogradist\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8DAEB137-672A-4ABC-BF25-8F2460849542}|WebApplication1\\WebApplication1.csproj|c:\\users\\luisa\\onedrive\\escritorio\\piaantonio1\\piaprogradist\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8DAEB137-672A-4ABC-BF25-8F2460849542}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -33,25 +41,54 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "registro.cshtml",
-              "DocumentMoniker": "C:\\Users\\aleja\\Desktop\\PIAPrograDist\\WebApplication1\\WebApplication1\\Pages\\registro.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Pages\\registro.cshtml",
-              "ToolTip": "C:\\Users\\aleja\\Desktop\\PIAPrograDist\\WebApplication1\\WebApplication1\\Pages\\registro.cshtml",
-              "RelativeToolTip": "WebApplication1\\Pages\\registro.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACYAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-11T16:32:55.303Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\luisa\\OneDrive\\Escritorio\\PIAANTONIO1\\PIAPrograDist\\WebApplication1\\WebApplication1\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\luisa\\OneDrive\\Escritorio\\PIAANTONIO1\\PIAPrograDist\\WebApplication1\\WebApplication1\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAowHsAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-12T04:07:52.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\luisa\\OneDrive\\Escritorio\\PIAANTONIO1\\PIAPrograDist\\WebApplication1\\WebApplication1\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\luisa\\OneDrive\\Escritorio\\PIAANTONIO1\\PIAPrograDist\\WebApplication1\\WebApplication1\\Pages\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T03:40:13.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "registro.cshtml",
+              "DocumentMoniker": "C:\\Users\\luisa\\OneDrive\\Escritorio\\PIAANTONIO1\\PIAPrograDist\\WebApplication1\\WebApplication1\\Pages\\registro.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Pages\\registro.cshtml",
+              "ToolTip": "C:\\Users\\luisa\\OneDrive\\Escritorio\\PIAANTONIO1\\PIAPrograDist\\WebApplication1\\WebApplication1\\Pages\\registro.cshtml",
+              "RelativeToolTip": "WebApplication1\\Pages\\registro.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T16:32:55.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "acceso.cshtml",
-              "DocumentMoniker": "C:\\Users\\aleja\\Desktop\\PIAPrograDist\\WebApplication1\\WebApplication1\\Pages\\acceso.cshtml",
+              "DocumentMoniker": "C:\\Users\\luisa\\OneDrive\\Escritorio\\PIAANTONIO1\\PIAPrograDist\\WebApplication1\\WebApplication1\\Pages\\acceso.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Pages\\acceso.cshtml",
-              "ToolTip": "C:\\Users\\aleja\\Desktop\\PIAPrograDist\\WebApplication1\\WebApplication1\\Pages\\acceso.cshtml",
+              "ToolTip": "C:\\Users\\luisa\\OneDrive\\Escritorio\\PIAANTONIO1\\PIAPrograDist\\WebApplication1\\WebApplication1\\Pages\\acceso.cshtml",
               "RelativeToolTip": "WebApplication1\\Pages\\acceso.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -60,42 +97,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "registro.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\aleja\\Desktop\\PIAPrograDist\\WebApplication1\\WebApplication1\\Pages\\registro.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\luisa\\OneDrive\\Escritorio\\PIAANTONIO1\\PIAPrograDist\\WebApplication1\\WebApplication1\\Pages\\registro.cshtml.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Pages\\registro.cshtml.cs",
-              "ToolTip": "C:\\Users\\aleja\\Desktop\\PIAPrograDist\\WebApplication1\\WebApplication1\\Pages\\registro.cshtml.cs",
+              "ToolTip": "C:\\Users\\luisa\\OneDrive\\Escritorio\\PIAANTONIO1\\PIAPrograDist\\WebApplication1\\WebApplication1\\Pages\\registro.cshtml.cs",
               "RelativeToolTip": "WebApplication1\\Pages\\registro.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T15:53:03.674Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T15:53:03.674Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\aleja\\Desktop\\PIAPrograDist\\WebApplication1\\WebApplication1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\luisa\\OneDrive\\Escritorio\\PIAANTONIO1\\PIAPrograDist\\WebApplication1\\WebApplication1\\Program.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
-              "ToolTip": "C:\\Users\\aleja\\Desktop\\PIAPrograDist\\WebApplication1\\WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\luisa\\OneDrive\\Escritorio\\PIAANTONIO1\\PIAPrograDist\\WebApplication1\\WebApplication1\\Program.cs",
               "RelativeToolTip": "WebApplication1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T15:41:58.196Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T15:41:58.196Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "acceso.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\aleja\\Desktop\\PIAPrograDist\\WebApplication1\\WebApplication1\\Pages\\acceso.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\luisa\\OneDrive\\Escritorio\\PIAANTONIO1\\PIAPrograDist\\WebApplication1\\WebApplication1\\Pages\\acceso.cshtml.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Pages\\acceso.cshtml.cs",
-              "ToolTip": "C:\\Users\\aleja\\Desktop\\PIAPrograDist\\WebApplication1\\WebApplication1\\Pages\\acceso.cshtml.cs",
+              "ToolTip": "C:\\Users\\luisa\\OneDrive\\Escritorio\\PIAANTONIO1\\PIAPrograDist\\WebApplication1\\WebApplication1\\Pages\\acceso.cshtml.cs",
               "RelativeToolTip": "WebApplication1\\Pages\\acceso.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T15:06:12.949Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T15:06:12.949Z"
             }
           ]
         }
