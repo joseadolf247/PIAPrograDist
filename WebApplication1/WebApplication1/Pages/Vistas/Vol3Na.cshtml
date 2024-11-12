@@ -1,0 +1,28 @@
+﻿@page
+@model WebApplication1.Pages.Vistas.Vol3NaModel
+@{
+    ViewData["Title"] = "Detalles del Volumen - Naruto";
+}
+
+<head>
+    <link rel="stylesheet" href="~/css/Volumen.css" />
+</head>
+
+<div class="container mt-5 volume-details">
+    <div class="row">
+        <div class="col-md-4">
+            <img src="https://d14d9vp3wdof84.cloudfront.net/image/589816272436/image_bcimfdt5653ibbr56dh7341n1f/-S897-FWEBP" alt="Naruto Volumen 3" class="img-fluid rounded shadow-lg border border-secondary volume-image">
+        </div>
+        <div class="col-md-8">
+            <div class="title-background" style="background-color: rgba(0, 0, 0, 0.7); padding: 15px; border-radius: 8px; margin-bottom: 20px;">
+                <h3 class="volume-title" style="font-size: 36px; font-weight: bold; color: #ffffff; text-align: center;">Naruto - Volumen 3</h3>
+            </div>
+            <div class="synopsis-background" style="background-color: rgba(0, 0, 0, 0.6); padding: 20px; border-radius: 8px;">
+                <p class="volume-synopsis" style="font-size: 20px; line-height: 1.8; color: #f1f1f1;">
+                    <strong>Sinopsis:</strong> Este volumen muestra cómo el equipo de Naruto participa en el examen de Chunin, enfrentando pruebas peligrosas y descubriendo secretos del pasado. La rivalidad con ninjas de otras aldeas se intensifica y las habilidades de cada miembro se ponen a prueba.
+                </p>
+            </div><br />
+            <a href="javascript:history.back()" class="btn btn-secondary mt-4" style="font-size: 18px; padding: 12px 24px;">Regresar</a>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,37 @@
+﻿@page
+@model WebApplication1.Pages.Vistas.Vol1NaModel
+@{
+    ViewData["Title"] = "Detalles del Volumen - Naruto";
+}
+
+<head>
+    <link rel="stylesheet" href="~/css/Volumen.css" />
+</head>
+
+<div class="container mt-5 volume-details">
+    <!-- Contenedor de la fila para los detalles del volumen -->
+    <div class="row">
+        <!-- Imagen del Volumen -->
+        <div class="col-md-4">
+            <img src="https://http2.mlstatic.com/D_NQ_NP_864926-MLM51655900755_092022-O.webp" alt="Naruto Volumen 1" class="img-fluid rounded shadow-lg border border-secondary volume-image">
+        </div>
+
+        <!-- Información del Volumen -->
+        <div class="col-md-8">
+            <!-- Título con fondo oscuro -->
+            <div class="title-background" style="background-color: rgba(0, 0, 0, 0.7); padding: 15px; border-radius: 8px; margin-bottom: 20px;">
+                <h3 class="volume-title" style="font-size: 36px; font-weight: bold; color: #ffffff; text-align: center;">Naruto - Volumen 1</h3>
+            </div>
+
+            <!-- Fondo oscuro semitransparente para la sinopsis -->
+            <div class="synopsis-background" style="background-color: rgba(0, 0, 0, 0.6); padding: 20px; border-radius: 8px;">
+                <p class="volume-synopsis" style="font-size: 20px; line-height: 1.8; color: #f1f1f1;">
+                    <strong>Sinopsis:</strong> Este volumen presenta el comienzo de la historia de Naruto Uzumaki, un joven ninja decidido a ser reconocido y valorado por su aldea, aunque alberga al poderoso zorro de nueve colas en su interior. Su viaje hacia el respeto y la amistad inicia con sus primeros encuentros y desafíos en la Aldea Oculta de la Hoja.
+                </p>
+            </div><br />
+
+            <!-- Botón más grande para regresar a la página anterior -->
+            <a href="javascript:history.back()" class="btn btn-secondary mt-4" style="font-size: 18px; padding: 12px 24px;">Regresar</a>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,37 @@
+﻿@page
+@model WebApplication1.Pages.Vistas.Vol4BkModel
+@{
+    ViewData["Title"] = "Detalles del Volumen - Berserk";
+}
+
+<head>
+    <link rel="stylesheet" href="~/css/Volumen.css" />
+</head>
+
+<div class="container mt-5 volume-details">
+    <!-- Contenedor de la fila para los detalles del volumen -->
+    <div class="row">
+        <!-- Imagen del Volumen -->
+        <div class="col-md-4">
+            <img src="https://m.media-amazon.com/images/I/71uZmQcFo1L._AC_UF1000,1000_QL80_.jpg" alt="Berserk Volumen 4" class="img-fluid rounded shadow-lg border border-secondary volume-image">
+        </div>
+
+        <!-- Información del Volumen -->
+        <div class="col-md-8">
+            <!-- Título con fondo oscuro -->
+            <div class="title-background" style="background-color: rgba(0, 0, 0, 0.7); padding: 15px; border-radius: 8px; margin-bottom: 20px;">
+                <h3 class="volume-title" style="font-size: 36px; font-weight: bold; color: #ffffff; text-align: center;">Berserk - Volumen 4</h3>
+            </div>
+
+            <!-- Fondo oscuro semitransparente para la sinopsis -->
+            <div class="synopsis-background" style="background-color: rgba(0, 0, 0, 0.6); padding: 20px; border-radius: 8px;">
+                <p class="volume-synopsis" style="font-size: 20px; line-height: 1.8; color: #f1f1f1;">
+                    <strong>Sinopsis:</strong> En este volumen, la historia de Guts se oscurece aún más mientras el protagonista se enfrenta a su propia mortalidad y la creciente ambición de Griffith. La batalla por el destino se intensifica mientras Guts se enfrenta a su destino oscuro y su sed de venganza lo lleva por caminos cada vez más oscuros. La historia se profundiza en la corrupción de los sueños y la lucha por la supervivencia en un mundo brutal.
+                </p>
+            </div><br />
+
+            <!-- Botón más grande para regresar a la página anterior -->
+            <a href="javascript:history.back()" class="btn btn-secondary mt-4" style="font-size: 18px; padding: 12px 24px;">Regresar</a>
+        </div>
+    </div>
+</div>

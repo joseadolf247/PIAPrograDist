@@ -1,0 +1,37 @@
+﻿@page
+@model WebApplication1.Pages.Vistas.Vol1MashModel
+@{
+    ViewData["Title"] = "Detalles del Volumen - Mashle";
+}
+
+<head>
+    <link rel="stylesheet" href="~/css/Volumen.css" />
+</head>
+
+<div class="container mt-5 volume-details">
+    <!-- Contenedor de la fila para los detalles del volumen -->
+    <div class="row">
+        <!-- Imagen del Volumen -->
+        <div class="col-md-4">
+            <img src="https://m.media-amazon.com/images/I/91xuA6EDybL._UF894,1000_QL80_.jpg" alt="Mashle Volumen 1" class="img-fluid rounded shadow-lg border border-secondary volume-image">
+        </div>
+
+        <!-- Información del Volumen -->
+        <div class="col-md-8">
+            <!-- Título con fondo oscuro -->
+            <div class="title-background" style="background-color: rgba(0, 0, 0, 0.7); padding: 15px; border-radius: 8px; margin-bottom: 20px;">
+                <h3 class="volume-title" style="font-size: 36px; font-weight: bold; color: #ffffff; text-align: center;">Mashle - Volumen 1</h3>
+            </div>
+
+            <!-- Fondo oscuro semitransparente para la sinopsis -->
+            <div class="synopsis-background" style="background-color: rgba(0, 0, 0, 0.6); padding: 20px; border-radius: 8px;">
+                <p class="volume-synopsis" style="font-size: 20px; line-height: 1.8; color: #f1f1f1;">
+                    <strong>Sinopsis:</strong> Mashle es un joven que vive en un mundo mágico donde la magia es lo más importante. Sin embargo, Mashle no tiene ningún poder mágico, lo que lo convierte en un outsider en su mundo. Para poder vivir en paz con su padre, decide ingresar a una escuela mágica y demostrar que la fuerza física y el esfuerzo también pueden ser una forma de magia. En este primer volumen, Mashle se enfrenta a desafíos impresionantes, y la historia de su lucha por ser aceptado comienza.
+                </p>
+            </div><br />
+
+            <!-- Botón más grande para regresar a la página anterior -->
+            <a href="javascript:history.back()" class="btn btn-secondary mt-4" style="font-size: 18px; padding: 12px 24px;">Regresar</a>
+        </div>
+    </div>
+</div>

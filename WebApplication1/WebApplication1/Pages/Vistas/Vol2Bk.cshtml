@@ -1,0 +1,37 @@
+﻿@page
+@model WebApplication1.Pages.Vistas.Vol2BkModel
+@{
+    ViewData["Title"] = "Detalles del Volumen - Berserk";
+}
+
+<head>
+    <link rel="stylesheet" href="~/css/Volumen.css" />
+</head>
+
+<div class="container mt-5 volume-details">
+    <!-- Contenedor de la fila para los detalles del volumen -->
+    <div class="row">
+        <!-- Imagen del Volumen -->
+        <div class="col-md-4">
+            <img src="https://m.media-amazon.com/images/I/71mDKpKl8KL._AC_UF1000,1000_QL80_.jpg" alt="Berserk Volumen 2" class="img-fluid rounded shadow-lg border border-secondary volume-image">
+        </div>
+
+        <!-- Información del Volumen -->
+        <div class="col-md-8">
+            <!-- Título con fondo oscuro -->
+            <div class="title-background" style="background-color: rgba(0, 0, 0, 0.7); padding: 15px; border-radius: 8px; margin-bottom: 20px;">
+                <h3 class="volume-title" style="font-size: 36px; font-weight: bold; color: #ffffff; text-align: center;">Berserk - Volumen 2</h3>
+            </div>
+
+            <!-- Fondo oscuro semitransparente para la sinopsis -->
+            <div class="synopsis-background" style="background-color: rgba(0, 0, 0, 0.6); padding: 20px; border-radius: 8px;">
+                <p class="volume-synopsis" style="font-size: 20px; line-height: 1.8; color: #f1f1f1;">
+                    <strong>Sinopsis:</strong> La historia de Guts se adentra en su turbulento viaje junto a los miembros de la banda de los halcones, particularmente con Griffith, quien comienza a mostrar una ambición de poder que cambiará el destino de todos. Este volumen profundiza en los lazos de Guts con los miembros de la banda, su habilidad en combate, y sus conflictos internos mientras se enfrenta a desafíos aún más intensos.
+                </p>
+            </div><br />
+
+            <!-- Botón más grande para regresar a la página anterior -->
+            <a href="javascript:history.back()" class="btn btn-secondary mt-4" style="font-size: 18px; padding: 12px 24px;">Regresar</a>
+        </div>
+    </div>
+</div>

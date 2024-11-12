@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="~/css/Vistas.css" />
 </head>
 
-<div class="container mt-5">
+<div class="container mt-5 manga-details">
     <!-- Contenedor de la fila para los detalles del manga -->
     <div class="row">
         <!-- Imagen del Manga -->
@@ -19,20 +19,65 @@
 
         <!-- Información del Manga -->
         <div class="col-md-8">
-            <h3 class="manga-title" style="font-size: 30px; font-weight: bold; color: #34495e;">Hunter X Hunter</h3><br />
-            <p class="manga-author" style="font-size: 18px; color: #7f8c8d;"><strong>Autor:</strong> Yoshihiro Togashi</p><br />
-            <p class="manga-rating" style="font-size: 18px; color: #f39c12;"><strong>Calificación:</strong> ⭐ 4.9</p><br />
-            <p class="manga-year" style="font-size: 18px; color: #7f8c8d;"><strong>Año de publicación:</strong> 1998</p><br />
-            <p class="manga-status" style="font-size: 18px; color: #7f8c8d;"><strong>Estado:</strong> En emisión</p><br />
-            <p class="manga-synopsis" style="font-size: 18px; line-height: 1.6; color: #2c3e50;">
-                <strong>Sinopsis:</strong> Gon Freecss es un joven que aspira a convertirse en cazador, un miembro de élite con habilidades extraordinarias. En su camino se enfrenta a desafíos que lo llevarán a descubrir secretos sobre su padre y a enfrentar poderosos enemigos. La historia es un viaje de autodescubrimiento, amistad y crecimiento.
-            </p><br />
+            <!-- Título con fondo oscuro -->
+            <div class="title-background" style="background-color: rgba(0, 0, 0, 0.7); padding: 15px; border-radius: 8px; margin-bottom: 20px;">
+                <h3 class="manga-title" style="font-size: 36px; font-weight: bold; color: #ffffff; text-align: center;">Hunter X Hunter</h3>
+            </div>
+
+            <!-- Fondo oscuro semitransparente para la información -->
+            <div class="info-background" style="background-color: rgba(0, 0, 0, 0.6); padding: 20px; border-radius: 8px;">
+                <p class="manga-author" style="font-size: 18px; color: #f1f1f1;"><strong>Autor:</strong> Yoshihiro Togashi</p><br />
+                <p class="manga-rating" style="font-size: 18px; color: #f39c12;"><strong>Calificación:</strong> ⭐ 4.9</p><br />
+                <p class="manga-year" style="font-size: 18px; color: #f1f1f1;"><strong>Año de publicación:</strong> 1998</p><br />
+                <p class="manga-status" style="font-size: 18px; color: #f1f1f1;"><strong>Estado:</strong> En emisión</p><br />
+                <p class="manga-synopsis" style="font-size: 20px; line-height: 1.8; color: #f1f1f1;">
+                    <strong>Sinopsis:</strong> Gon Freecss es un joven que aspira a convertirse en cazador, un miembro de élite con habilidades extraordinarias. En su camino se enfrenta a desafíos que lo llevarán a descubrir secretos sobre su padre y a enfrentar poderosos enemigos. La historia es un viaje de autodescubrimiento, amistad y crecimiento.
+                </p><br />
+            </div>
 
             <!-- Botón para ver más detalles -->
-            <a href="https://www.youtube.com/watch?v=G_0w2hGNqBQ&pp=ygUXcmVzdW1lbiBodW50ZXIgeCBodW50ZXI%3D" class="btn btn-primary mt-3 manga-button">Conocer más detalles</a>
+            <a href="https://www.youtube.com/watch?v=G_0w2hGNqBQ&pp=ygUXcmVzdW1lbiBodW50ZXIgeCBodW50ZXI%3D" class="btn btn-primary mt-3" style="font-size: 18px; padding: 12px 24px; border-radius: 8px; background-color: #2980b9; border-color: #2980b9;">
+                Conocer más detalles
+            </a>
 
             <!-- Botón para regresar -->
-            <button onclick="window.history.back();" class="btn btn-secondary mt-3 manga-button">Regresar</button>
+            <button onclick="window.history.back();" class="btn btn-secondary mt-3 manga-button" style="font-size: 18px; padding: 12px 24px; border-radius: 8px;">
+                Regresar
+            </button>
+
+            <!-- Tabla de Volúmenes Disponibles -->
+            <div class="mt-5">
+                <h4 style="font-size: 24px; font-weight: bold; color: #34495e; text-align: center;">Volúmenes disponibles:</h4>
+                <div class="table-responsive">
+                    <table class="table table-striped table-hover table-bordered mt-3" style="background-color: #f9f9f9; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+                        <thead class="thead-dark">
+                            <tr>
+                                <th>Volumen</th>
+                                <th>Enlace</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="font-weight-bold">Hunter X Hunter 01</td>
+                                <td><a href="/Mangas/Vol1HxH" class="btn btn-link" style="font-size: 18px; text-decoration: none;">Ver Volumen 1</a></td>
+                            </tr>
+                            <tr>
+                                <td class="font-weight-bold">Hunter X Hunter 02</td>
+                                <td><a href="/Mangas/Vol2HxH" class="btn btn-link" style="font-size: 18px; text-decoration: none;">Ver Volumen 2</a></td>
+                            </tr>
+                            <tr>
+                                <td class="font-weight-bold">Hunter X Hunter 03</td>
+                                <td><a href="/Mangas/Vol3HxH" class="btn btn-link" style="font-size: 18px; text-decoration: none;">Ver Volumen 3</a></td>
+                            </tr>
+                            <tr>
+                                <td class="font-weight-bold">Hunter X Hunter 04</td>
+                                <td><a href="/Mangas/Vol4HxH" class="btn btn-link" style="font-size: 18px; text-decoration: none;">Ver Volumen 4</a></td>
+                            </tr>
+                            <!-- Agregar más volúmenes aquí si es necesario -->
+                        </tbody>
+                    </table>
+                </div>
+            </div>
         </div>
     </div>
 </div>
